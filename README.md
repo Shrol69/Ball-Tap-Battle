@@ -14,7 +14,7 @@ To run this game, you need to have Python installed on your machine. The game us
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Shrol69/ball-tap-battle.git
+    git clone https://github.com/yourusername/ball-tap-battle.git
     ```
 
 2. **Navigate to the Directory**:
@@ -41,6 +41,11 @@ To run this game, you need to have Python installed on your machine. The game us
 - **Ball Movement**: The ball bounces off the walls and players. It resets to the center when a goal is scored.
 - **Player Movement**: Players move up and down within their restricted area.
 - **Goals**: Goals are located at both ends of the field.
+
+## Screenshot
+
+![Game Screenshot]![Screenshot 2024-08-18 231907](https://github.com/user-attachments/assets/d1f56071-4d84-4a0e-b18a-a84ccdce5bf3)
+()
 
 ## Acknowledgements
 
